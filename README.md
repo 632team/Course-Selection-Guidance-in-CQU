@@ -18,8 +18,7 @@
 
 ### 对于懂得使用github的同学
 
-fork本项目，clone到本地编辑后，提交PR即可。  
-注意，添加课程评价请按照如下格式：
+fork本项目，clone到本地编辑后，提交PR即可。注意，添加课程评价请按照如下格式：
 ```
 - 任课教师：姓名
 - 上课模式(传统/在线)：
@@ -45,20 +44,8 @@ fork本项目，clone到本地编辑后，提交PR即可。
   - Content: 需要评价/建议/更改的内容（更改请指名是更改哪个模块）
 - 如果是 添加课程
   - Title: 学院名-课程类别-课程名字(添加课程)
-  - Content: （在相应位置更改即可）
-  - ```
-    - 任课教师：姓名
-    - 上课模式(传统/在线)：
-    - 总评：
-      > 总评内容。
-    - 评价列表：
-      - > 这里写评语——这里署名/昵称
-      - > 这里写评语——这里署名/昵称
-      - > 这里写评语——这里署名/昵称
-      - > 这里写评语——这里署名/昵称
-      - > 这里写评语——这里署名/昵称
-    ```
-
+  - Content: 复制下方模块到内容中，在对应位置处更改即可。
+  
 ### 注意事项
 - 请不要在评价中夹杂不文明用语
 - 对老师的评价请尽量客观
@@ -87,7 +74,7 @@ fork本项目，clone到本地编辑后，提交PR即可。
 - 总评：
   - 总评是对老师的综合评价。希望能涉及但不限于：上课方式、态度、点名情况、课程作业情况、课程考试难度
 - 评价列表：
-  - 在这里大家可以给予简单的短评，附上署名或者昵称。如果自己的评价内容已经有相似的，希望能够不添加评论。
+  - 在这里大家可以给予简单的短评，附上署名或者昵称。如果自己的评价内容已经有相似的，希望能够不添加评论，保持评论区的简洁。
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.  
